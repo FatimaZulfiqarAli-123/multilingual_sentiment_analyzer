@@ -1,5 +1,4 @@
-# Smart Multilingual Sentiment Analyzer using NLP and Transformers
-
+# Smart Multilingual Sentiment Analyzer using Transformers
 An AI-powered web application that detects sentiment (Positive, Negative, Neutral) from text in multiple languages using pretrained transformer models.
 
 ---
